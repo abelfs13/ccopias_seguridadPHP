@@ -1,7 +1,7 @@
 <?php
 include_once 'head.php';
 
-
+echo'<h2>formulario de copias de seguridad</h2>';
 echo'<form action = "realizarcopia.php" method = "POST">
        
 <table>
